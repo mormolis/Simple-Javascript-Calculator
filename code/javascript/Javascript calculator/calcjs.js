@@ -5,9 +5,7 @@ var secoma = true;
 
 
 function onMouseClick(){
-    //23658-56528/85698552+44565+56816-5651+5
-    
-    //alert(document.activeElement.value);
+   
     switch (document.activeElement.value) {
         case "1":
         case "2":
