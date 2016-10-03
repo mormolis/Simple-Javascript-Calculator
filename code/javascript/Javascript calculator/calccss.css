@@ -1,0 +1,42 @@
+body{
+    margin:0;
+    padding: 0;
+}
+form{
+    width:280px;
+    margin: auto;
+    padding: 30 px;
+    
+}
+
+
+button{
+    height: 40px;
+    width: 60px;
+    font-size: 1.5em;
+    background-color: #ddd;
+    border: none;
+    float:left;
+    margin: 2.3px;
+    
+    
+    
+    
+}
+button:hover{
+    background-color: #bbb;
+}
+
+button:active{
+    background-color:#aaa;
+}
+
+input{
+    height: 40px;
+    width: 246px;
+    font-size: 1.5em;
+    background-color: beige;
+    border: none;
+    padding-left: 10px;
+}
+
